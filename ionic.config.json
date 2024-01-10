@@ -1,0 +1,7 @@
+{
+  "name": "ionic-notion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
